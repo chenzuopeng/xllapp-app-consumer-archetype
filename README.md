@@ -1,1 +1,1 @@
-# xllapp-app-consumer-archetype
+ 消息处理程序开发框架(基于xllapp-app和xllapp-jms等)。同时也是一个maven原型项目，用于生成的消息处理程序项目。
